@@ -13,7 +13,7 @@
 # you will see them accessed via \{\{ site.title \}\}, \{\{ site.github_repo \}\}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via \{\{ site.myvariable \}\}.
-title: Stat 153: Introduction to Time Series
+title: "Stat 153: Introduction to Time Series"
 tagline: Course Overview
 description: An introduction to time series analysis in the time domain and spectral domain. Topics will include: estimation of trends and seasonal effects, autoregressive moving average models, forecasting, indicators, harmonic analysis, spectra. This course uses either R or Python as its primary computing language, as determined by the instructor.
 author: SCF
