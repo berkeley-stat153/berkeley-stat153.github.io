@@ -15,7 +15,7 @@
 # in the templates via \{\{ site.myvariable \}\}.
 title: "Stat 153: Introduction to Time Series"
 tagline: Course Overview
-description: An introduction to time series analysis in the time domain and spectral domain. Topics will include: estimation of trends and seasonal effects, autoregressive moving average models, forecasting, indicators, harmonic analysis, spectra. This course uses either R or Python as its primary computing language, as determined by the instructor.
+description: "An introduction to time series analysis in the time domain and spectral domain. Topics will include: estimation of trends and seasonal effects, autoregressive moving average models, forecasting, indicators, harmonic analysis, spectra. This course uses either R or Python as its primary computing language, as determined by the instructor."
 author: SCF
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://stat153.berkeley.edu'
