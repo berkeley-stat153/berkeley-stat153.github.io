@@ -31,8 +31,6 @@ An introduction to time series analysis in the time domain and spectral domain. 
 
 Three hours of Lecture and  Two hours of Laboratory per week for 15 weeks.
 
-Written final exam conducted during the scheduled final exam period.
-
 ## Prerequisites
 
 134 or consent of instructor. 133 or 135 recommended.
