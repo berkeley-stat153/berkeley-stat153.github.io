@@ -24,7 +24,7 @@ UC Berkeley
 
 ## Overview
 
-An introduction to time series analysis in the time domain and spectral domain. Topics will include: estimation of trends and seasonal effects, autoregressive moving average models, forecasting, indicators, harmonic analysis, spectra. This course uses either R or Python as its primary computing language, as determined by the instructor.
+An introduction to time series analysis in the time domain and spectral domain. Topics will include: estimation of trends and seasonal effects, autoregressive moving average models, forecasting, indicators, harmonic analysis, spectra. 
 
 ## Logistics
 
@@ -32,4 +32,4 @@ Three hours of Lecture and  Two hours of Laboratory per week for 15 weeks.
 
 ## Prerequisites
 
-134 or consent of instructor. 133 or 135 recommended.
+101, 134 or consent of instructor. 133 or 135 recommended. 
