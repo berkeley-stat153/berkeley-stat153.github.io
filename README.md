@@ -17,6 +17,7 @@ UC Berkeley
 
 ## Offerings
 
+1. [Fall 2025](fall-2025)
 1. [Spring 2025](spring-2025)
 1. [Fall 2024](fall-2024)
 
@@ -25,7 +26,7 @@ UC Berkeley
 
 ## Overview
 
-An introduction to time series analysis in the time domain and spectral domain. Topics will include: estimation of trends and seasonal effects, autoregressive moving average models, forecasting, indicators, harmonic analysis, spectra. 
+An introduction to time series analysis in the time domain and spectral domain. Topics will include: estimation of trends and seasonal effects, autoregressive moving average models, forecasting, indicators, harmonic analysis, spectra. This course uses either R or Python as its primary computing language, as determined by the instructor.
 
 ## Logistics
 
@@ -33,4 +34,4 @@ Three hours of Lecture and  Two hours of Laboratory per week for 15 weeks.
 
 ## Prerequisites
 
-101, 134 or consent of instructor. 133 or 135 recommended. 
+134 or consent of instructor. 133 or 135 recommended.
